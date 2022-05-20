@@ -43,10 +43,15 @@ int main(){
 }
 ```
 
+## Tablas
+| Nombre | Apellido |
+| ------------- | ------------- |
+| Rafael | Rivadeneira |
 
-### To-do
 
-- [ ] Still need to do this
-- [ ] ~~Decided not to do this~~
-- [x] Done!
+## To-do
+
+- [x] Actualizar foto de perfil
+- [ ] ~~Descargar mapa espol~~
+- [x] Llenar encuesta!
 
