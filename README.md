@@ -1,7 +1,7 @@
 # README Template
 
 El presente documento es un pequeño template como primer guía o paso para tener en un repositorio. Su contenido se ve reflejado en la siguiente Tabla:
-
+NOTA: por cada modificación, subir al repositorio.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -17,23 +17,23 @@ El presente documento es un pequeño template como primer guía o paso para tene
 
 ## Imagenes
 
-Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>`
+Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` (TODO: insertar otra imagen)
 
 <div align="center">
   <kbd>
-    <img style='width:400px' src="https://cdn.euroinnova.edu.es/img/subidasEditor/work-731198_640-1610002880.webp" />
+    <img style='width:400px' src="https://images7.memedroid.com/images/UPLOADED530/61e494b96c3b6.jpeg" />
   </kbd>
 </div>
 
 ## Enlaces
-Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)`
+Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)` (TODO: agregar un nuevo link)
 * [ESPOL](https://www.espol.edu.ec/)
 * [AulaVirtual](https://aulavirtual.espol.edu.ec/)
 
 
 ## Códigos
 
-Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite:
+Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite (TODO: modificar código): 
 
 ```
 #include <stdio.h>
@@ -49,7 +49,7 @@ int main(){
 | Rafael | Rivadeneira |
 
 
-## To-do
+## To-do (TODO: agregar un elemento adicional)
 
 - [x] Actualizar foto de perfil
 - [ ] ~~Descargar mapa espol~~
