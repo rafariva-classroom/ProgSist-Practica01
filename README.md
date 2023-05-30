@@ -1,5 +1,13 @@
 # README Template
 
+## comandos básicos GIT
+Debe crear un TOKEN con todos los persmisos y usarlo como contraseña
+
+git clone <url>
+git add .
+git commit -m "mensaje log"
+git push
+
 El presente documento es un pequeño template como primer guía o paso para tener en un repositorio. Su contenido se ve reflejado en la siguiente Tabla:
 NOTA: por cada modificación, subir al repositorio.
 
@@ -43,7 +51,7 @@ int main(){
 }
 ```
 
-## Tablas
+## Tablas (TO-DO: añadir dos filas adicionales)
 | Nombre | Apellido |
 | ------------- | ------------- |
 | Rafael | Rivadeneira |
