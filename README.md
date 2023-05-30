@@ -28,7 +28,9 @@ NOTA: por cada modificación, subir al repositorio.
 
 ## Imagenes
 
-Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` (TO-DO: insertar otra imagen)
+Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` 
+
+TO-DO: insertar otra imagen
 
 <div align="center">
   <kbd>
@@ -44,7 +46,9 @@ Para insertar enlaces como los mostrados a continuación, debe poner entre corch
 
 ## Códigos
 
-Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite (TO-DO: modificar código): 
+Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite 
+
+TO-DO: modificar código 
 
 ```
 #include <stdio.h>
@@ -54,13 +58,16 @@ int main(){
 }
 ```
 
-## Tablas (TO-DO: añadir dos filas adicionales)
+## Tablas 
+TO-DO: añadir dos filas adicionales
+
 | Nombre | Apellido |
 | ------------- | ------------- |
 | Rafael | Rivadeneira |
 
 
-## To-do (TO-DO: agregar un elemento adicional)
+## To-do 
+TO-DO: agregar un elemento adicional
 
 - [x] Actualizar foto de perfil
 - [ ] ~~Descargar mapa espol~~
