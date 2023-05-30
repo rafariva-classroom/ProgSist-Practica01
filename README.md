@@ -17,7 +17,7 @@ NOTA: por cada modificación, subir al repositorio.
 
 ## Imagenes
 
-Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` (TODO: insertar otra imagen)
+Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `<img src='...' \>` (TO-DO: insertar otra imagen)
 
 <div align="center">
   <kbd>
@@ -26,14 +26,14 @@ Para insertar imágenes, es tal cual como si lo hiciera en HTML, usando el tag `
 </div>
 
 ## Enlaces
-Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)` (TODO: agregar un nuevo link)
+Para insertar enlaces como los mostrados a continuación, debe poner entre corchetes el nombre seguido del enlace entre paréntesis, `[nombre](http://enlace)` (TO-DO: agregar un nuevo link)
 * [ESPOL](https://www.espol.edu.ec/)
 * [AulaVirtual](https://aulavirtual.espol.edu.ec/)
 
 
 ## Códigos
 
-Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite (TODO: modificar código): 
+Para insertar código debe estrar encerrado entre triple comilla simple invertida (\`\`\`) y escribir lo que necesite (TO-DO: modificar código): 
 
 ```
 #include <stdio.h>
@@ -49,7 +49,7 @@ int main(){
 | Rafael | Rivadeneira |
 
 
-## To-do (TODO: agregar un elemento adicional)
+## To-do (TO-DO: agregar un elemento adicional)
 
 - [x] Actualizar foto de perfil
 - [ ] ~~Descargar mapa espol~~
