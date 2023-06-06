@@ -1,7 +1,7 @@
 # README Template
 
 ## Comandos básicos GIT
-Debe crear un TOKEN con todos los persmisos y usarlo como contraseña
+Debe crear un TOKEN con todos los permisos y usarlo como contraseña
 
 ```
   git clone <url>
