@@ -12,7 +12,7 @@ Debe crear un TOKEN con todos los permisos y usarlo como contraseña
 
 El presente documento es un pequeño template como primer guía o paso para tener en un repositorio. Su contenido se ve reflejado en la siguiente Tabla:
 
-NOTA: por cada modificación, subir al repositorio.
+NOTA: por cada modificación, subir al repositorio (hacer commit/push).
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -67,7 +67,7 @@ TO-DO: añadir dos filas adicionales
 
 
 ## To-do 
-TO-DO: agregar un elemento adicional
+TO-DO: agregar dos elemento adicional
 
 - [x] Actualizar foto de perfil
 - [ ] ~~Descargar mapa espol~~
